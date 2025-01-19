@@ -1,4 +1,4 @@
-# Automatic Plant Watering System Using Arduino 🌱💧
+# Automatic Plant Watering System Using Arduino🌱💧
 
 This project demonstrates an **automatic plant watering system** using an Arduino board. The system continuously monitors soil moisture levels using a sensor and activates a pump when the soil is too dry. This setup ensures your plants always get the water they need without manual intervention. 🪴✨
 
