@@ -14,7 +14,7 @@ This project demonstrates an **automatic plant watering system** using an Arduin
 
 ## Components Required 🛠️
 
-1. **Arduino Board** (e.g., Uno, Nano)  
+1. **Arduino Board** (e.g., Uno, Nano)
 2. **Soil Moisture Sensor**  
 3. **Water Pump**  
 4. **Resistors and Connecting Wires**  
